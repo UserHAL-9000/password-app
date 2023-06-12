@@ -42,4 +42,4 @@ The following image shows the web application's appearance and functionality:
 
 ## Web Application 
 
-https://userhal-9000.github.io/week-3-challenge/
+https://userhal-9000.github.io/password-app/
